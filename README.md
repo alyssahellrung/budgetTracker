@@ -28,10 +28,10 @@ Morgan
 Express   
 MongoDB  
 Mongoose   
-IndexedDB
-Manifest
-Service Worker
-Cache API     
+IndexedDB  
+Manifest  
+Service Worker  
+Cache API       
 
 ## How to Use  
    
@@ -48,6 +48,6 @@ https://
 https://github.com/alyssahellrung/budgetTracker 
 
 ## Future Development Ideas
---Better styling
---A delete button to delete old or incorrect entries
---A way to keep track of spending over time: by day, month, week, and/or year
+--Better styling  
+--A delete button to delete old or incorrect entries  
+--A way to keep track of spending over time: by day, month, week, and/or year  
